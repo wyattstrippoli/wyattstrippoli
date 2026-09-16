@@ -20,7 +20,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Shopping List](#) | Shopping list app to create lists for the store | C++ |
+| [Shopping List](https://github.com/wyattstrippoli/shopping-list) | Shopping list app to create lists for the store | C++ |
 
 ---
 
